@@ -27406,9 +27406,9 @@
   },
   {
     "id": "marp-tikz-plus",
-    "name": "Marp TikZ Plus",
+    "name": "Marp Plus",
     "author": "Kevin",
-    "description": "TikZ diagrams and full Marp presentation support — Slide Navigator, Speaker Notes, and PPTX export. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Author Marp slide decks in your vault with the precision scientific and engineering talks demand: TikZ/LaTeX diagrams, slide navigator, speaker notes, and PPTX/PDF export. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kevinyuan/marp-tikz-plus"
   },
   {
